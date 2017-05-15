@@ -33,13 +33,11 @@ El proyecto deberá estar en la cuenta de GitHub del alumno
 El proyecto deberá estar en la cuenta de GitHub del alumno
 
 
+
 -- código --
 
 //: Playground - noun: a place where people can play
-
 import UIKit
-
-
 for num in 0...100{
     // si el residuo es 0 cuando se divide entre 5
     if num % 5 == 0 {
