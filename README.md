@@ -1,7 +1,7 @@
 # juegoMemoria
 semana 2 - juego de memoria
 
-Instructions
+#Instructions
 Programa un playground que evalúe un rango de números en base a 4 reglas de impresión.
 
 Generar un rango de 0 a 100, incluye el número 100 en el rango.
@@ -17,7 +17,7 @@ La salida de mensajes dejes tenerla en la consola.
 El proyecto deberá estar en la cuenta de GitHub del alumno
 
 
-Review Criteria
+#Review Criteria
 ¿El playground se encuentra en GitHub?
 ¿El playground está hecho en Swift?
 ¿Se genera un rango de 0 a 100?
@@ -29,11 +29,12 @@ Review Criteria
 ¿Se usa la interpolación de variables al imprimir las reglas?
 ¿Se muestran los mensajes en la consola?
 
-Entrega
+#Entrega
 El proyecto deberá estar en la cuenta de GitHub del alumno
 
 
-//-- código --
+-- código --
+
 //: Playground - noun: a place where people can play
 
 import UIKit
